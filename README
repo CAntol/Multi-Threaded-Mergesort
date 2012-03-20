@@ -1,0 +1,3 @@
+This implementation does not make use of standard optimizations such as using an n^2 algorithm for sorting lists of a small size.
+
+The mergetest executable demonstrates use of the mergesort.
